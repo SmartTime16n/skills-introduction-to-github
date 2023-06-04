@@ -1,0 +1,6 @@
+theme: minima
+title: "Git-Hub"
+author: "Julian"
+description:"Article"
+base: main 
+compare:my-pages
